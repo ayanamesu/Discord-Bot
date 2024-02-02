@@ -9,7 +9,7 @@ The following table must be completed as soon as the repository is created. ***I
 
 |        Student ID          |     Student Full Name      |        SFSU Email          |
 | ---------------------------| ---------------------------| ---------------------------|
-|      your student id       |       your full name       |      your sfsu email       |
+|      920558688             |       Wing Lee             |      wlee17@sfsu.edu       |
 
 
 A random database topic will be assigned by the instructor to all the students. As soon as it is assigned, fill out the following table with your topic´s info.
