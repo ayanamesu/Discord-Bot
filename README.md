@@ -16,7 +16,7 @@ A random database topic will be assigned by the instructor to all the students. 
 
 |       Topic Description        |              Date Assigned                 |
 | ------------------------------ | ------------------------------------------ |
-|         your topic             |       the date the topic was assigned      |
+| Airport Management System            |       2/3/2024      |
 
 
 All the work in this course is divided into five milestones which in total are worth 50% of your final grade in this course 
